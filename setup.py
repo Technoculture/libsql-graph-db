@@ -35,6 +35,7 @@ setup(
             "pytest>=8.1.1",
             "ruff>=0.3.2",
             "mypy>=1.9.0",
+            "fhir-resources>=7.1.0",
         ],
         "scrollable-textbox": ["streamlit-scrollable-textbox"],
         "turso": ["libsql-experimental"],
